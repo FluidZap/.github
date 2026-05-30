@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua pelo caminho da sua logo principal (fundo transparente) -->
-  <img src="https://raw.githubusercontent.com/FluidZap/fluid-zap-landing-page/99d461b9b7f1589501890d75ab20d21c54fa8703/public/images/fluidzap-logo-light.svg?token=ANEZLO7IITYJBN3QK6KT2G3KDLTDC" alt="FluidZap Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/FluidZap/fluid-zap-landing-page/99d461b9b7f1589501890d75ab20d21c54fa8703/public/images/fluidzap-logo-light.svg?token=ANEZLO7IITYJBN3QK6KT2G3KDLTDC" alt="FluidZap Logo" width="360" />
 
   # Bem-vindo à FluidZap ⚡️
   
